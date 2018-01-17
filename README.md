@@ -1,2 +1,2 @@
 # Moving-RedRover
-The first step to a smart and moving robot
+The first step to a intelligent and mobile robot
