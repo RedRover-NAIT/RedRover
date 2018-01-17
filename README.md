@@ -1,2 +1,2 @@
 # Moving-RedRover
-The first step to an intelligent and mobile robot
+Lets make something happen!
